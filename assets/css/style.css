@@ -1,32 +1,17 @@
-button, 
-form {
-	margin: 5px;
-}
-button {color: yellow}
-.jumbotron {
-	font-weight: bold;
-	background-color: black;
-	color: white;
+/* .container{
+	padding-top: 5%;
+} */
 
+.jumbotron{
+	/*padding: 1%;*/
+	background-color: #b7c91b;
+	color: #ffffff;
 }
-.container .jumbotron, .container-fluid .jumbotron {
-	padding-top: 2px;
-	padding-bottom: 2px;
+
+#movies{
+	padding: 3%;
 }
-button, html input[type=button], input[type=reset], input[type=submit] {
-	background-color: black;
-	border: black;
-	color: white;
-}
-input{
-	background-color: #ffffff ;
-}
-.item {
-	padding: 10px;
-	display: inline-block;
-}
-p{
-	background-color: #f8f4ff;
-	color: #cdbfe3;	
-	padding: 0px;
+
+div{
+	margin-bottom: 2%;
 }
